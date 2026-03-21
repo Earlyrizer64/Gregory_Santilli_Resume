@@ -4,7 +4,7 @@
 | Project Overview | Final Product Video |
 | :--------------: | :-----------------: |
 | Designed and fabricated a fully functional electric fan, completing the project from CAD modeling through physical manufacturing and performance testing. The project included SolidWorks modeling, 3D printing, electrical soldering, and structural and thermal stress analysis to evaluate product durability and safety.  | [![Final Product Video](Video_Previews/Final_Video_Preview.jpg)](https://youtu.be/hzLtAGD7JCc) |
-| ASSEMBLY PLAN LINK | FAN DESIGN REPORT LINK |
+| <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Fan_Design_Files/SLDPRTparts.zip"><img src="Buttons/Download_Button_4.png" width="200" height="50"></a> | FAN DESIGN REPORT LINK |
 | BILL OF MATERIALS LINK |
 
 ***
