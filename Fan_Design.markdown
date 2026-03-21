@@ -2,21 +2,23 @@
 <table>
 <tr>
 <td align="center">
-<img src="Fan_Design_Files/Main_Pic_1" width="300"><br>
-Lift System
+<img src="Fan_Design_Files/Main_Pic_4.jpg" width="400" height="400"><br>
+SolidWorks Assembly
 </td>
 
 <td align="center">
-<img src="Fan_Design_Files/Main_Pic_2" width="300"><br>
-Auto Lift
+<img src="Fan_Design_Files/Main_Pic_2.jpg" width="400" height="400"><br>
+Orca File
 </td>
 
 <td align="center">
-<img src="Fan_Design_Files/Main_Pic_3" width="300"><br>
-Force Diagram
+<img src="Fan_Design_Files/Main_Pic_3.jpg" width="400" height="400"><br>
+Thermal Analysis
 </td>
 </tr>
 </table>
+
+***
 
 # Custom Fan Design and Thermal Analysis
 | Project Overview | Final Product Video |
