@@ -1,4 +1,22 @@
 <div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="Fan_Design_Files/Main_Pic_1" width="300"><br>
+Lift System
+</td>
+
+<td align="center">
+<img src="Fan_Design_Files/Main_Pic_2" width="300"><br>
+Auto Lift
+</td>
+
+<td align="center">
+<img src="Fan_Design_Files/Main_Pic_3" width="300"><br>
+Force Diagram
+</td>
+</tr>
+</table>
 
 # Custom Fan Design and Thermal Analysis
 | Project Overview | Final Product Video |
