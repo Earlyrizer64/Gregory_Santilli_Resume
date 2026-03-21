@@ -34,10 +34,32 @@ Analysis and Testing
 
 | Thermal Stress Test | Fluid Flow Simulation |
 | :-----------------: | :-------------------: |
-| ![Thermal Stress Image](Fan_Design_Files/Thermal_Stress_Image.png) | [![Fluid Flow Simulation](Video_Previews/Model_4_Blade_and_Final_Case_(Velocity_Test).jpg)](https://youtu.be/90CtCeXjsDc) | 
+| <p align="center"><img src="Fan_Design_Files/Thermal_Stress_Image.png" width="350"></p> | <p align="center"><a href="https://youtu.be/90CtCeXjsDc"><img src="Video_Previews/Model_4_Blade_and_Final_Case_(Velocity_Test).jpg" width="350"></a></p> |
 
+Thermal Analysis was performed to assess if the batteries would heat up with prolonged use.  SolidWorks Thermal Analysis showed there was not a significant thermal stress, and physical testing confirmed the results.  A Fluid Flow Simulation was performed using Flow Simulation in SolidWorks to determine whether there would be meaningful flow out of the fan to be able to cool someone.  The simulation showed there was sufficient flow out of the front of the fan.  
 
-
-
+***
 
 </div>
+
+# Engineering Challenges
+
+- Thermal build up was controlled by powering the fan with 4 AA batteries.
+  
+- With creating a small desktop fan, it was difficult to design for manufacturing to ensure all parts could be 3D printed and assembled.  
+
+- It was also important to take precise measurements for CAD models to ensure tolerances were met when designing a part to stabilize / hold the blade and motor together to maintain stability and allow the motor to rotate while operating the fan.  
+
+***
+
+# Skills Used
+
+3D CAD Modeling (SolidWorks)
+
+Computational Fluid Dynamics – Flow Simulation (SolidWorks)
+
+Thermal & Structural Stress Analysis (SolidWorks)
+
+Design for Additive Manufacturing
+
+Prototype Fabrication & Assembly
