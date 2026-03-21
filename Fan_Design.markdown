@@ -14,17 +14,8 @@
 
 | Assembly Exploded Video | Concept and CAD |
 | :---------------------: | :-------------: |
-| [![Assembly Exploded View](Video_Previews/Final_Assembly_Exploded_View.jpg)(https://youtu.be/zVu0sHj5E2g) | - Fully modeled assembly in SolidWorks<br>- Designed housing, blade geometry, and mounting structure<br>- Considered airflow direction and structural rigidity |
-
-
-<h2 align="center">Final Product Demo</h2>
-
-<p align="center">
-  <a href="https://youtu.be/hzLtAGD7JCc">
-    <img src="https://img.youtube.com/vi/hzLtAGD7JCc/0.jpg" width="700">
-  </a><br>
-  <b>▶ Click to watch the final product video</b>
-</p>
+| [![Assembly Exploded View](Video_Previews/Final_Assembly_Exploded_View.jpg)](https://youtu.be/zVu0sHj5E2g) | - Fully modeled assembly in SolidWorks<br>- Designed housing, blade geometry, and mounting structure<br>- Considered airflow direction and structural rigidity |
+| SolidWorks Assembly Files | <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Fan_Design_Files/Final_Assembly_in_SolidWorks.zip"><img src="Buttons/Download_Button.png" width="100" height="50"></a>
 
 
 </div>
