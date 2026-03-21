@@ -14,7 +14,7 @@
 
 | Assembly Exploded Video | Concept and CAD |
 | :---------------------: | :-------------: |
-| INSERT VIDEO | - Fully modeled assembly in SolidWorks<br>- Designed housing, blade geometry, and mounting structure<br>- Considered airflow direction and structural ridgidity |
+| [![Assembly Exploded View](Video_Previews/Final_Assembly_Exploded_View.jpg)(https://youtu.be/zVu0sHj5E2g) | - Fully modeled assembly in SolidWorks<br>- Designed housing, blade geometry, and mounting structure<br>- Considered airflow direction and structural rigidity |
 
 
 <h2 align="center">Final Product Demo</h2>
