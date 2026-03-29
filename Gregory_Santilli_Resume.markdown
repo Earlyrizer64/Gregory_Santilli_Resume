@@ -11,7 +11,7 @@ I am a mechanical engineering student graduating in May 2026 with hands-on exper
 
 ***
 
-[![Fan Design](Buttons/Fan_Design.png)](Fan_Design.markdown)
+[![Button](https://img.shields.io/badge/-Fan--Design-blue)](https://www.google.com/)
 
 </div>
 
