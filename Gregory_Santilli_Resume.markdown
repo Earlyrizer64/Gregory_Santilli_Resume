@@ -15,8 +15,9 @@ I am a mechanical engineering student graduating in May 2026 with hands-on exper
 
 <a href="Oven_Thermal_Design_Study.markdown"><img src="https://img.shields.io/badge/Oven_Thermal_Design_Study-blue" width="200" height="100"> </a>
 
+
 </div>
 
 <div align="center">
-This text is centered
+
 </div>
