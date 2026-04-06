@@ -21,9 +21,11 @@ INSERT IMAGES ABOVE
 
   Steady-state MATLAB thermal model using a resistance network was used to evaluate oven heat loss at 350°F. A parametric sweep over insulation materials and thicknesses was performed, followed by a cost vs performance optimization to select the most efficient insulation design.
 
-</div>
-
 <img src="Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_1.png" width="2000" height="1000">
+<a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Oven_Thermal_Design_Study_Files/Mid_Term_Oven_Part1
+.zip"> <img src="https://img.shields.io/badge/Resistive_Network_Pt_1-blue" width="150" height="100"> </a>
+
+</div>
 
 | Insulation Type | Thermal Conductivity, k (W/m·K) | Thickness (in) | Max Allowable Temp (°F) | Surface Temp (Simscape) (°C) | Surface Temp (MATLAB Hand Calc) | Rate of Heat Loss (W) |
 |:---------------:|:-------------------------------:|:--------------:|:-----------------------:|:----------------------------:|:-------------------------------:|:---------------------:|
