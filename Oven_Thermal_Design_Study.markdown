@@ -23,10 +23,29 @@ INSERT IMAGES ABOVE
 
 </div>
 
-
+<img src="Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_1.png" width="2000" height="1000">
 
 | Insulation Type | Thermal Conductivity, k (W/m·K) | Thickness (in) | Max Allowable Temp (°F) | Surface Temp (Simscape) (°C) | Surface Temp (MATLAB Hand Calc) | Rate of Heat Loss (W) |
 |:---------------:|:-------------------------------:|:--------------:|:-----------------------:|:----------------------------:|:-------------------------------:|:---------------------:|
 | Cellular Glass | 0.058 | 3 | 900 | 31.86 | 31.85 | 3,596.46 |
 | Perlite, Expanded | 0.042 | 2 | 1200 | 32.71 | 32.70 | 3,860.09 |
 | Calcium Silicate | 0.060 | 2 | 1200 | 32.20 | 32.19 | 3,702.66 |
+
+
+| Insulation Type | Area Needed (ft²) | Thickness Needed (in) | Unit Price ($/ft² for required thickness) | Total Cost ($) |
+|:---------------:|:-----------------:|:---------------------:|:-----------------------------------------:|:--------------:|
+| Cellular Glass | 378 | 3 | ~15 | 5,670 |
+| Perlite Expanded | 378 | 2  | ~4 | 1,512 |
+| Calcium Silicate | 378 | 2 | ~6 | 2,268 |
+
+<div align="center">
+Expanded perlite was selected as the optimal insulation due to its lowest cost while satisfying the minimum heat loss requirement of approximately 1200 W across all tested materials.
+</div>
+
+***
+
+
+
+
+
+
