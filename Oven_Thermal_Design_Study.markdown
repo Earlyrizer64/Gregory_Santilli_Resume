@@ -2,7 +2,11 @@
 INSERT IMAGES ABOVE
 
 ***
-# 
+<h1 style="text-align: center;">
+  
+  # Oven Thermal Design Study
+  
+</h1>
 
 | Project Overview | Images | File Download |
 |:-----------------|:-------|:--------------|
@@ -12,3 +16,4 @@ INSERT IMAGES ABOVE
 
 ***
 
+# Steady-State Thermal Analysis of Oven
