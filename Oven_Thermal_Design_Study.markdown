@@ -81,17 +81,17 @@ Following the thermal analysis of the baseline cake-and-tray system, a design op
 <table>
 <tr>
 <td align="center">
-<img src="Oven_Thermal_Design_Study_Files/Original_Design_Image.png" width="300"><br>
+<img src="Oven_Thermal_Design_Study_Files/Original_Design_Image.png" width="300" height="300"><br>
 Original Model
 </td>
 
 <td align="center">
-<img src="Oven_Thermal_Design_Study_Files/Brownie_Design_Image.png" width="300"><br>
+<img src="Oven_Thermal_Design_Study_Files/Brownie_Design_Image.png" width="300" height="300"><br>
 Brownie Design
 </td>
 
 <td align="center">
-<img src="Oven_Thermal_Design_Study_Files/Heat_Sink_Design_Image.png" width="300"><br>
+<img src="Oven_Thermal_Design_Study_Files/Heat_Sink_Design_Image.png" width="300" height="300"><br>
 Heat Sink Design
 </td>
 </tr>
