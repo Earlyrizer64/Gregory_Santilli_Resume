@@ -81,7 +81,7 @@ Following the thermal analysis of the baseline cake-and-tray system, a design op
 <table>
 <tr>
 <td align="center">
-<img src="Oven_Thermal_Design_Study_Files/Original_Model_Image.png" width="300"><br>
+<img src="Oven_Thermal_Design_Study_Files/Original_Design_Image.png" width="300"><br>
 Original Model
 </td>
 
