@@ -14,6 +14,8 @@ INSERT IMAGES ABOVE
 | Next, we developed a transient lumped capacitance model in MATLAB to simulate the cooking process of a food item with thermally similar properties to chicken. This allowed estimation of internal temperature evolution and baseline cook time predictions.| <img src="Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_2.png" width="5000" height="5000"> |
 | Finally, the system was modeled in SolidWorks Thermal Simulation to capture spatial temperature gradients and geometric effects not included in simplified models. This step was used to evaluate design modifications aimed at reducing cook time and improving thermal efficiency, ultimately targeting reduced production bottlenecks and avoiding capital equipment expansion. | <img src="Oven_Thermal_Design_Study_Files/Original_Model_Image.png" width="5000" height="5000"> |
 
+<a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Oven_Thermal_Design_Study_Files/Heat_Transfer_Mid-Term_Project.pdf"> <img src="https://img.shields.io/badge/Final_Report-blue" width="150" height="100"> </a>
+
 ***
 <div align="center">
   
@@ -114,24 +116,13 @@ Heat Sink Design (A larger Surface Area would lead to more heat being transfered
 </tr>
 </table>
 
+| <img src="Oven_Thermal_Design_Study_Files/All_Heat_Curves.png" width="1000" height="700"> | <img src="Oven_Thermal_Design_Study_Files/Stacked_Tray_Design_SW.png" width="300" height="300"> |
+|:----:|:---:|
+| Heat Curve for all Designs | Final Stacked Tray Design |
 
 
-<table>
-<tr>
-<td align="center">
-<img src="Oven_Thermal_Design_Study_Files/All_Heat_Curves.png" width="300" height="300"><br>
-Heat Curve for all Designs
-</td>
-
-<td align="center">
-<img src="Oven_Thermal_Design_Study_Files/Stacked_Tray_Design_SW.png" width="300" height="300"><br>
-Final Stacked Tray Design
-</tr>
-</td> 
-</table>
 </div>
 </div>
-
 
 # Key Engineering Takeaways
 
