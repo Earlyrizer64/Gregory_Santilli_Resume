@@ -2,11 +2,11 @@
 INSERT IMAGES ABOVE
 
 ***
-<h1 style="text-align: center;">
+<div align="center">
   
   # Oven Thermal Design Study
   
-</h1>
+</div>
 
 | Project Overview | Images | File Download |
 |:-----------------|:-------|:--------------|
@@ -15,5 +15,18 @@ INSERT IMAGES ABOVE
 | Finally, the system was modeled in SolidWorks Thermal Simulation to capture spatial temperature gradients and geometric effects not included in simplified models. This step was used to evaluate design modifications aimed at reducing cook time and improving thermal efficiency, ultimately targeting reduced production bottlenecks and avoiding capital equipment expansion. | <img src="Oven_Thermal_Design_Study_Files/Original_Model_Image.png" width="500" height="300"> | <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Oven_Thermal_Design_Study_Files/Original_Model_Parts.zip"> <img src="https://img.shields.io/badge/Original_Model_Parts-blue" width="100" height="40"> </a> |
 
 ***
+<div align="center">
+  
+  # Steady-State Thermal Analysis of Oven
 
-# Steady-State Thermal Analysis of Oven
+  Steady-state MATLAB thermal model using a resistance network was used to evaluate oven heat loss at 350°F. A parametric sweep over insulation materials and thicknesses was performed, followed by a cost vs performance optimization to select the most efficient insulation design.
+
+</div>
+
+
+
+| Insulation Type | Thermal Conductivity, k (W/m·K) | Thickness (in) | Max Allowable Temp (°F) | Surface Temp (Simscape) (°C) | Surface Temp (MATLAB Hand Calc) | Rate of Heat Loss (W) |
+|:---------------:|:-------------------------------:|:--------------:|:-----------------------:|:----------------------------:|:-------------------------------:|:---------------------:|
+| Cellular Glass | 0.058 | 3 | 900 | 31.86 | 31.85 | 3,596.46 |
+| Perlite, Expanded | 0.042 | 2 | 1200 | 32.71 | 32.70 | 3,860.09 |
+| Calcium Silicate | 0.060 | 2 | 1200 | 32.20 | 32.19 | 3,702.66 |
