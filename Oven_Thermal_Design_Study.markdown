@@ -1,1 +1,15 @@
 
+INSERT IMAGES ABOVE
+
+***
+
+| Project Overview | Images | File Download |
+|:----------------:|:------:|:-------------:|
+| This project was based on a real engineering constraint where an industrial baking process required reduced cook time to meet production demand without purchasing additional ovens.  We first performed a steady-state thermal analysis of the oven at an internal operating temperature of 350°F, modeling heat loss through a thermal resistance network with various insulation configurations. The goal was to ensure that heat input exceeded losses to maintain stable operating conditions.| PLACE HOLDER | PLACE HOLDER |
+| Next, we developed a transient lumped capacitance model in MATLAB to simulate the cooking process of a food item with thermally similar properties to chicken. This allowed estimation of internal temperature evolution and baseline cook time predictions.| <img src="path/to/your/image.png" width="500" height="300"> | PLACE HOLDER |
+| Finally, the system was modeled in SolidWorks Thermal Simulation to capture spatial temperature gradients and geometric effects not included in simplified models. This step was used to evaluate design modifications aimed at reducing cook time and improving thermal efficiency, ultimately targeting reduced production bottlenecks and avoiding capital equipment expansion. | PLACE HOLDER | PLACE HOLDER |
+
+
+
+
+
