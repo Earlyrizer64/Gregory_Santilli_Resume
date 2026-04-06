@@ -75,7 +75,7 @@ The cake reached 160°F in ~55 minutes. The Biot number (1.281 > 0.1) indicated 
 
 Following the thermal analysis of the baseline cake-and-tray system, a design optimization study was conducted to reduce overall cooking time. Multiple tray geometries were evaluated in SolidWorks thermal simulations to modify heat transfer pathways and improve thermal response. The objective was to identify a configuration that minimized cook time while maintaining uniform heating of the product.
 
-## Original Model (Baseline Cook Time)
+## Original and Improved Models
 
 <div align="center">
 <table>
@@ -95,19 +95,64 @@ Brownie Design
 Heat Sink Design
 </td>
 </tr>
+<tr>
+<td>
+
+Original Model (Baseline) to compare cook time
+
+</td>
+<td>
+
+Brownie Design (Reduce space between sections not being heated by conduction)
+
+</td>
+<td>
+
+Heat Sink Design (A larger Surface Area would lead to more heat being transfered through conduction)
+
+</td>
+</tr>
 </table>
 
-INSERT IMAGE
 
-This original model took 
 
+<table>
+<tr>
+<td align="center">
+<img src="Oven_Thermal_Design_Study_Files/All_Heat_Curves.png" width="300" height="300"><br>
+Heat Curve for all Designs
+</td>
+
+<td align="center">
+<img src="Oven_Thermal_Design_Study_Files/Stacked_Tray_Design_SW.png" width="300" height="300"><br>
+Final Stacked Tray Design
+</tr>
+</td> 
+</table>
+</div>
 </div>
 
 
+# Key Engineering Takeaways
 
+* The Biot number is critical for validating modeling assumptions; applying a lumped capacitance model when Bi > 0.1 leads to significant inaccuracy due to internal temperature gradients.
+* The lumped capacitance model in MATLAB predicted a cook time of approximately 55 minutes, whereas SolidWorks FEA showed the same system required ~2.8 hours for the internal temperature to reach 160°F, highlighting the limitations of simplified models.
+* Incorporating stainless steel dividers (brownie-style design) did not significantly reduce cook time, as the individual sections remained too thick for efficient heat transfer.
+* The heat sink-inspired design, intended to increase surface area and enhance heat absorption, instead increased cook time due to the added thermal mass, which required additional energy and time to heat.
+* The stacked layer design proved most effective by reducing the characteristic thickness of each layer, allowing convection and radiation to heat the product more efficiently. This design also offered a simpler and more feasible manufacturing approach.
 
+***
 
+# Engineering Tools and Methods
 
+* MATLAB / Simulink
+  * Transient thermal modeling using lumped capacitance methods and parametric analysis
+* SolidWorks Simulation (Thermal FEA)
+  * 3D transient heat transfer modeling including conduction, convection, and radiation
+* Analytical Heat Transfer Methods
+  * Steady-state thermal resistance networks and Biot number validation
+* Design Optimization Techniques
+  * Geometry-based performance improvement and comparative analysis of multiple design configurations
 
 
 
