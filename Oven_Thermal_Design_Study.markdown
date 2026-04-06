@@ -4,56 +4,8 @@ INSERT IMAGES ABOVE
 ***
 
 | Project Overview | Images | File Download |
-|:----------------:|:------:|:-------------:|
+|:-----------------|:-------|:--------------|
 | This project was based on a real engineering constraint where an industrial baking process required reduced cook time to meet production demand without purchasing additional ovens.  We first performed a steady-state thermal analysis of the oven at an internal operating temperature of 350°F, modeling heat loss through a thermal resistance network with various insulation configurations. The goal was to ensure that heat input exceeded losses to maintain stable operating conditions.| <img src="Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_2.png" width="4800" height="1000"> | <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Oven_Thermal_Design_Study_Files/Mid_Term_Oven_Part1.zip"> <img src="https://img.shields.io/badge/Resistive_Network-blue" width="100" height="40"> </a> |
 | Next, we developed a transient lumped capacitance model in MATLAB to simulate the cooking process of a food item with thermally similar properties to chicken. This allowed estimation of internal temperature evolution and baseline cook time predictions.| <img src="Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_2.png" width="500" height="300"> | PLACE HOLDER |
 | Finally, the system was modeled in SolidWorks Thermal Simulation to capture spatial temperature gradients and geometric effects not included in simplified models. This step was used to evaluate design modifications aimed at reducing cook time and improving thermal efficiency, ultimately targeting reduced production bottlenecks and avoiding capital equipment expansion. | PLACE HOLDER | PLACE HOLDER |
-
-
-<table>
-  <tr>
-    <th style="width: 15%;">Project Overview</th>
-    <th style="width: 80%;">Images</th>
-    <th style="width: 5%;">File Download</th>
-  </tr>
-
-  <tr>
-    <td>
-      This project was based on a real engineering constraint where an industrial baking process required reduced cook time to meet production demand without purchasing additional ovens.  We first performed a steady-state thermal analysis of the oven at an internal operating temperature of 350°F, modeling heat loss through a thermal resistance network with various insulation configurations. The goal was to ensure that heat input exceeded losses to maintain stable operating conditions
-    </td>
-    <td>
-      <img src="Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_1.png" style="width:100%;">
-    </td>
-    <td align="center">
-      <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Oven_Thermal_Design_Study_Files/Mid_Term_Oven_Part1.zip">
-        <img src="https://img.shields.io/badge/Resistive_Network-blue?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
-    <td> 
-      Next, we developed a transient lumped capacitance model in MATLAB to simulate the cooking process of a food item with thermally similar properties to chicken. This allowed estimation of internal temperature evolution and baseline cook time predictions.
-    </td>
-    <td>
-      <img src="Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_2.png" style="width:100%;">
-    </td>
-    <td align="center">
-      <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Oven_Thermal_Design_Study_Files/Mid_Term_Oven_Part1.zip">
-        <img src="https://img.shields.io/badge/Resistive_Network-blue?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
-    <td> 
-      Finally, the system was modeled in SolidWorks Thermal Simulation to capture spatial temperature gradients and geometric effects not included in simplified models. This step was used to evaluate design modifications aimed at reducing cook time and improving thermal efficiency, ultimately targeting reduced production bottlenecks and avoiding capital equipment expansion.
-    </td>
-    <td>
-      <img src="Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_2.png" style="width:100%;">
-    </td>
-    <td align="center">
-      <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Oven_Thermal_Design_Study_Files/Mid_Term_Oven_Part1.zip">
-        <img src="https://img.shields.io/badge/Resistive_Network-blue?style=for-the-badge">
-      </a>
-    </td>
-  </td>
-</table>
-
 
