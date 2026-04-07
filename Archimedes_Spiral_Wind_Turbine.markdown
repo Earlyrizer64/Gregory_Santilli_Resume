@@ -30,6 +30,16 @@
 
 ***
 
+## Generator
+
+We slightly modified a hand crank generator to convert the mechanical energy from the turbine to electrical power using magnets and copper wire
+
+| Winding Groups | Stator Holding Magnets |
+|:--:|:--:|
+| <img src="Archimedes_Spiral_Wind_Turbine_Files/GeneratorStatorv2.jpg" width="1000" height="1000"> | <img src="Archimedes_Spiral_Wind_Turbine_Files/GeneratorWiringv2.jpg" width="1000" height="1000"> |
+
+***
+
 ## Performance Testing
 
 | <a href="https://youtu.be/-Gv8ExJl_F4"><img src="https://img.youtube.com/vi/-Gv8ExJl_F4/maxresdefault.jpg" width="1000"></a> | Glimpse of the Testing Phase (Beginning)
