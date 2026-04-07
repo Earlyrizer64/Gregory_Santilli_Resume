@@ -24,7 +24,7 @@
 
 ## Fabrication
 
-| <img src="Archimedes_Spiral_Wind_Turbine_Files/Actual_Turbine_Image.jpg" width="200" height="100"> | <img src="Archimedes_Spiral_Wind_Turbine_Files/Orca_Slice_Image.png" width="200" height="100"> |
+| <img src="Archimedes_Spiral_Wind_Turbine_Files/Actual_Turbine_Image.jpg" width="1000" height="1000"> | <img src="Archimedes_Spiral_Wind_Turbine_Files/Orca_Slice_Image.png" width="1000" height="1000"> |
 |:--:|:--:|
 | Turbine Assembly | Orca Slice of Air Foil |
 
