@@ -5,8 +5,9 @@
 |Designed and constructed a novel small-scale wind turbine prototype optimized for turbulent urban wind conditions. The team selected an Archimedes spiral blade geometry due to its ability to capture multidirectional and unsteady airflow more effectively than traditional horizontal-axis turbines. The project focused on aerodynamic performance, structural feasibility, and experimental validation under simulated wind conditions. | <a href="https://youtu.be/WuohDhst8Hg"><img src="https://img.youtube.com/vi/WuohDhst8Hg/maxresdefault.jpg" width="1000"></a> |
 
 <div align="center">
+  
+<a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Archimedes_Spiral_Wind_Turbine_Files/Novel_Wind_Turbine_Fall_2025_Clinic_Report.pdf"><img src="https://img.shields.io/badge/Final_Report-blue" width="200" height="100"> </a>
 
-LINK TO DOWNLOAD REPORT
 
 ***
 
