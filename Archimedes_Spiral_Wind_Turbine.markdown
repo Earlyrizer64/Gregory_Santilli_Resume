@@ -32,8 +32,8 @@
 
 ## Performance Testing
 
-| INSERT VIDEO LINK | Glimpse of the Testing Phase (Beginning)
-|:--:|:--:|
+| <a href="https://youtu.be/WuohDhst8Hg"><img src="https://youtu.be/WuohDhst8Hg/maxresdefault.jpg" width="1000"></a> | Glimpse of the Testing Phase (Beginning)
+|:--:|:---|
 |Testing Parameters | <ul> <li>Voltage</li><br> <li>Current</li><br> <li>Speed</li><br><li>Temperature</li></ul> |
 
 ***
@@ -42,7 +42,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <ul>
 <li> CAD modeling and assembly design in SolidWorks </li>
