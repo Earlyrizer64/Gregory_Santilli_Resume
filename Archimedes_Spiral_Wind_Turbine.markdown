@@ -32,6 +32,8 @@
 
 ## Performance Testing
 
+https://youtu.be/-Gv8ExJl_F4
+
 | <a href="https://youtu.be/WuohDhst8Hg"><img src="https://youtu.be/WuohDhst8Hg/maxresdefault.jpg" width="1000"></a> | Glimpse of the Testing Phase (Beginning)
 |:--:|:---|
 |Testing Parameters | <ul> <li>Voltage</li><br> <li>Current</li><br> <li>Speed</li><br><li>Temperature</li></ul> |
