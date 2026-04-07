@@ -24,7 +24,7 @@
 
 ## Fabrication
 
-| INSERT IMAGE | INSERT IMAGE
+| <img src="Archimedes_Sprial_Wind_Turbine_Files/Actual_Turbine_Image.jpg" width="200" height="100"> | <img src="Archimedes_Spiral_Wind_Turbine_Files/Orca_Slice_Image.png" width="200" height="100"> |
 |:--:|:--:|
 | Turbine Assembly | Orca Slice of Air Foil |
 
@@ -32,9 +32,7 @@
 
 ## Performance Testing
 
-https://youtu.be/-Gv8ExJl_F4
-
-| <a href="https://youtu.be/WuohDhst8Hg"><img src="https://youtu.be/WuohDhst8Hg/maxresdefault.jpg" width="1000"></a> | Glimpse of the Testing Phase (Beginning)
+| <a href="https://youtu.be/-Gv8ExJl_F4"><img src="https://img.youtube.com/vi/-Gv8ExJl_F4/maxresdefault.jpg" width="1000"></a> | Glimpse of the Testing Phase (Beginning)
 |:--:|:---|
 |Testing Parameters | <ul> <li>Voltage</li><br> <li>Current</li><br> <li>Speed</li><br><li>Temperature</li></ul> |
 
