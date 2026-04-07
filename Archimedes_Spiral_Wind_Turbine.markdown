@@ -16,7 +16,7 @@
 | <h2> CAD Model </h2> | <h2> CAD Design </h2> |
 |:--:|:---|
 | <img src="Archimedes_Spiral_Wind_Turbine_Files/CAD_Model_Turbine.png" alt="CAD Model"> | <ul> <li>Modeled sprial blade geometry</li><br> <li>Selected materials</li><br> <li>Constructed turbine assembly</li> </ul> |
-| CAD Model Download -> | <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Archimedes_Spiral_Wind_Turbine_Files/V2Scaled_Down_Turbine.SLDPRT"><img src="https://img.shields.io/badge/Turbine_Part_File-blue" width="200" height="100"> </a> |
+| CAD Model Download -> | <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Archimedes_Spiral_Wind_Turbine_Files/V2_Scaled_Down_Turbine.SLDPRT"><img src="https://img.shields.io/badge/Turbine_Part_File-blue" width="200" height="100"> </a> |
 
 
 
