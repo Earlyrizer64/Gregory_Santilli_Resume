@@ -40,6 +40,10 @@
 
 ## Engineering Skills Demonstrated
 
+</div>
+
+<div align="center">
+
 <ul>
 <li> CAD modeling and assembly design in SolidWorks </li>
 <li> Aerodynamic design consideration </li>
