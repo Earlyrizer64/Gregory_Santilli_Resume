@@ -68,3 +68,9 @@ We slightly modified a hand crank generator to convert the mechanical energy fro
 
 
 </div>
+
+<div align="center">
+
+<a href="Gregory_Santilli_Resume.markdown"><img src="https://img.shields.io/badge/Back_To_Bio-blue" width="200" height="100"> </a>
+
+</div>
