@@ -1,7 +1,4 @@
 
-INSERT IMAGES ABOVE
-
-***
 <div align="center">
   
   # Oven Thermal Design Study
