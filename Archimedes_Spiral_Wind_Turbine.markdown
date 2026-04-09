@@ -1,5 +1,7 @@
 <div align="center">
+  
 # Archimedes Sprial Wind Turbine
+
 </div>
 | Project Overview | Video of Wind Turbine |
 |:----------------:|:---------------------:|
